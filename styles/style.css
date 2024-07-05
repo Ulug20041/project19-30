@@ -20,3 +20,12 @@
 .title:hover {
     transform: translateX(200px);
 }
+
+.main {
+    background: purple;
+    color: white;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
